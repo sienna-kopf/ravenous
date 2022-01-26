@@ -1,3 +1,9 @@
+# My First React App! 
+### aka learning React without knowing Javascript (😛 lol).
+## On the road to building my personal website and to feeling authenticity in the title "Full Stack Dev".
+
+---------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
