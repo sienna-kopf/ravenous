@@ -1,7 +1,7 @@
 # My First React App! 
 #### aka learning React without knowing Javascript (😛 lol).
 ### On the road to building my personal website and to feeling </br>
-###authenticity in the title "Full Stack Dev".
+### authenticity in the title "Full Stack Dev".
 
 ---------------------------------------------------------------------------------------------
 
